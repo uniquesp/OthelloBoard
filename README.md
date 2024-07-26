@@ -52,7 +52,9 @@ The game allows two players to take turns placing their pieces on the board. Eac
 
 Here's a screenshot of the game in action:
 
-![Othello Game Screenshot](images/othello_screenshot.png)
+![Othello Game at Start](https://github.com/uniquesp/OthelloBoard/blob/main/Screenshot%20(158).png)
+![Othello Game](https://github.com/uniquesp/OthelloBoard/blob/main/Screenshot%20(159).png)
+
 
 ## How It Works
 
